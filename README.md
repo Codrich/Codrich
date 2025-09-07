@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Codrich
-- 👀 I’m interested in building softwares
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on how to code, create softwares and others
-- 📫 How to reach me on kweku.addae@yahoo.com
+- 👋 Hi, I’m Richard
+- 👀 I’m interested in every challenging task
+- 🌱 I’m currently looking for job
+- 💞️ I’m looking to collaborate on how to code, create software, building cloud architectures and others
+- 📫 How to reach me on eliteriches@gmail.com
 
 <!---
 Codrich/Codrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
