@@ -1,10 +1,47 @@
-- 👋 Hi, I’m Richard
-- 👀 I’m interested in every challenging task
-- 🌱 I’m currently looking for job
-- 💞️ I’m looking to collaborate on how to code, create software, building cloud architectures and others
-- 📫 How to reach me on eliteriches@gmail.com
+## 👋 Hi, I'm Richard Addae
 
-<!---
-Codrich/Codrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Cloud & DevOps Engineering Student | AWS Certified Solutions Architect – Associate  
+
+I build and automate cloud infrastructure using AWS, Terraform, and CI/CD pipelines.  
+My focus is on creating scalable, secure, and production-ready environments.
+
+---
+
+## 🔧 What I Work With
+
+- ☁️ AWS (EC2, VPC, IAM, ECS, CloudWatch)
+- 🏗️ Infrastructure as Code (Terraform)
+- 🔄 CI/CD (GitHub Actions)
+- 🐧 Linux Administration & Bash Scripting
+- 🐳 Docker & Containerized Applications
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AWS Secure VPC (Terraform)
+Production-style VPC with public/private subnets, NAT Gateway, IAM roles, and remote state.
+
+### 🔹 ECS Fargate Deployment
+Containerized Flask application deployed on AWS ECS with CI/CD pipeline.
+
+### 🔹 Linux Admin Production Web Stack
+Linux-based web server setup with Nginx, monitoring, and system hardening.
+
+---
+
+## 🎯 Career Focus
+
+- Cloud Engineering  
+- DevOps / Platform Engineering  
+- Infrastructure Automation  
+- AI + Cloud Integration  
+
+---
+
+## 📫 Contact Me
+
+📧 eliteriches@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/richard-addae-2a79572a1  
+
+---
