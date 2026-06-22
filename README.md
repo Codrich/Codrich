@@ -1,29 +1,20 @@
-# Hi, I'm Richard Addae
+# Hi, I'm Richard Addae 👋
 
-**DevOps Engineer | Cloud Security Engineer | AWS | Terraform | Kubernetes**
+### DevOps Engineer | Cloud Security Engineer | AWS DevOps Professional | Terraform | Kubernetes
 
-AWS Certified DevOps Engineer - Professional | AWS Certified Solutions Architect – Associate | CompTIA Security+ | CompTIA Linux+
-
-Cybersecurity Technology Graduate
+AWS Certified DevOps Engineer – Professional
+AWS Certified Solutions Architect – Associate
+CompTIA Security+ | CompTIA Linux+ | CompTIA A+
 
 ---
 
 ## About Me
 
-I design, automate, and secure cloud infrastructure using modern DevOps and Infrastructure as Code practices.
+I am a DevOps and Cloud Security engineer focused on building secure, scalable, and automated cloud platforms on AWS.
 
-My focus areas include:
+My experience spans infrastructure automation, Kubernetes, container platforms, CI/CD pipelines, cloud networking, observability, and DevSecOps practices. I enjoy designing production-grade environments that emphasize security, reliability, automation, and operational excellence.
 
-* Cloud Engineering
-* DevOps & Platform Engineering
-* Cloud Security
-* Infrastructure as Code (Terraform)
-* Kubernetes & Container Platforms
-* CI/CD Automation
-* Observability & Reliability Engineering
-* AI Infrastructure
-
-I enjoy building production-grade systems that emphasize automation, security, scalability, and operational excellence.
+My long-term interests include Cloud Security Engineering, Platform Engineering, Site Reliability Engineering (SRE), and AI Security.
 
 ---
 
@@ -32,16 +23,22 @@ I enjoy building production-grade systems that emphasize automation, security, s
 ### Cloud & Infrastructure
 
 * AWS
-* Terraform
 * ECS Fargate
 * EKS
-* VPC Networking
-* IAM
+* VPC
 * Route 53
-* CloudWatch
+* IAM
 * S3
 * RDS
 * DynamoDB
+* CloudWatch
+
+### Infrastructure as Code
+
+* Terraform
+* CloudFormation
+* Remote State Management
+* Modular Infrastructure Design
 
 ### Containers & Orchestration
 
@@ -58,11 +55,12 @@ I enjoy building production-grade systems that emphasize automation, security, s
 * GitOps Workflows
 * OIDC Federation
 
-### Security
+### Security & DevSecOps
 
 * IAM Least Privilege
-* Infrastructure Security
 * Secrets Management
+* Infrastructure Security
+* Container Security
 * Security Hardening
 * DevSecOps Practices
 
@@ -72,7 +70,7 @@ I enjoy building production-grade systems that emphasize automation, security, s
 * Grafana
 * CloudWatch
 
-### Operating Systems & Languages
+### Operating Systems & Programming
 
 * Linux
 * Bash
@@ -84,24 +82,11 @@ I enjoy building production-grade systems that emphasize automation, security, s
 
 ## Featured Projects
 
-### AWS Secure Fargate Platform
-
-Production-grade ECS Fargate platform built with Terraform and CI/CD automation.
-
-Features:
-
-* ECS Fargate
-* Application Load Balancer
-* GitHub Actions
-* OIDC Authentication
-* CloudWatch Monitoring
-* DevSecOps Architecture
-
 ### AWS EKS GitOps Platform
 
 Production-grade Kubernetes platform on AWS using GitOps principles.
 
-Features:
+**Key Technologies**
 
 * Amazon EKS
 * Terraform
@@ -111,54 +96,96 @@ Features:
 * Grafana
 * GitHub Actions
 
+Repository:
+https://github.com/Codrich/aws-eks-gitops-platform
+
+---
+
+### AWS Secure Fargate Platform
+
+Secure ECS Fargate platform built using Infrastructure as Code and CI/CD automation.
+
+**Key Technologies**
+
+* ECS Fargate
+* Terraform
+* Application Load Balancer
+* GitHub Actions
+* OIDC Authentication
+* CloudWatch Monitoring
+
+Repository:
+https://github.com/Codrich/aws-secure-fargate-platform
+
+---
+
 ### AWS Secure VPC Terraform
 
-Secure AWS networking architecture built with Infrastructure as Code.
+Production-style AWS networking architecture built with Terraform.
 
-Features:
+**Key Technologies**
 
-* Public & Private Subnets
+* Public and Private Subnets
 * NAT Gateway
 * IAM Roles
 * Remote State Management
 * Security Best Practices
 
+Repository:
+https://github.com/Codrich/aws-secure-vpc-terraform
+
+---
+
 ### Cloud DevOps Automation Project
 
-Infrastructure automation, CI/CD pipelines, and serverless deployment workflows.
+Cloud infrastructure automation and CI/CD implementation project.
 
-Features:
+**Key Technologies**
 
-* CloudFormation
+* AWS CloudFormation
 * GitLab CI/CD
 * AWS Lambda
-* Python Automation
+* Python
+
+Repository:
+https://github.com/Codrich/scriptchain-devops-project
 
 ---
 
 ## Certifications
 
-* AWS Certified Solutions Architect – Associate
-* CompTIA Security+
-* CompTIA Linux+
-* CompTIA A+
+🏆 AWS Certified DevOps Engineer – Professional
+
+🏆 AWS Certified Solutions Architect – Associate
+
+🏆 CompTIA Security+
+
+🏆 CompTIA Linux+
+
+🏆 CompTIA A+
 
 ---
 
-## Career Interests
+## Current Areas of Interest
 
-* DevOps Engineering
 * Platform Engineering
+* DevOps Engineering
 * Cloud Security Engineering
 * Site Reliability Engineering (SRE)
-* AI Security Engineering
+* Kubernetes Platforms
+* Infrastructure Automation
+* AI Security
 
 ---
 
 ## Connect With Me
 
-GitHub: https://github.com/Codrich
+📧 Email: [eliteriches@gmail.com](mailto:eliteriches@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/richard-addae-2a79572a1
+💼 LinkedIn: https://www.linkedin.com/in/richard-addae-2a79572a1
 
-Email: [eliteriches@gmail.com](mailto:eliteriches@gmail.com)
+💻 GitHub: https://github.com/Codrich
+
+---
+
+⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
