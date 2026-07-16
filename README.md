@@ -1,191 +1,148 @@
 # Hi, I'm Richard Addae 👋
 
-### DevOps Engineer | Cloud Security Engineer | AWS DevOps Professional | Terraform | Kubernetes
+### AWS Certified DevOps Engineer – Professional | Cloud Infrastructure | DevSecOps | Terraform | Kubernetes
 
-AWS Certified DevOps Engineer – Professional
-AWS Certified Solutions Architect – Associate
+AWS Certified DevOps Engineer – Professional  
+AWS Certified Solutions Architect – Associate  
 CompTIA Security+ | CompTIA Linux+ | CompTIA A+
+
+---
+
+## Education
+
+**University of Maryland Global Campus**  
+Bachelor of Science in Cybersecurity Technology
 
 ---
 
 ## About Me
 
-I am a DevOps and Cloud Security engineer focused on building secure, scalable, and automated cloud platforms on AWS.
+I am an AWS Certified DevOps Engineer with experience building secure cloud infrastructure, automating software delivery, and supporting reliable systems in production and regulated environments.
 
-My experience spans infrastructure automation, Kubernetes, container platforms, CI/CD pipelines, cloud networking, observability, and DevSecOps practices. I enjoy designing production-grade environments that emphasize security, reliability, automation, and operational excellence.
+My work spans AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, cloud security, observability, and DevSecOps. At ScriptChain Health, I contribute to the cloud and security architecture of an AI-powered healthcare platform. Through Mertmart Group LLC, I design and build reusable AWS infrastructure and DevOps solutions backed by the repositories featured below.
 
-My long-term interests include Cloud Security Engineering, Platform Engineering, Site Reliability Engineering (SRE), and AI Security.
+I am especially interested in DevOps Engineering, Platform Engineering, Cloud Infrastructure, DevSecOps, Site Reliability Engineering, and AI Security.
+
+---
+
+## Current Role
+
+**DevOps Engineer – ScriptChain Health**
+
+Building cloud infrastructure, DevSecOps automation, and security architecture for an AI-powered healthcare platform supporting HIPAA, SOC 2, HITRUST, and FedRAMP readiness.
 
 ---
 
 ## Core Technologies
 
-### Cloud & Infrastructure
+**Cloud:** AWS, ECS Fargate, EKS, EC2, VPC, IAM, RDS, S3, ECR, KMS, CloudWatch, CloudTrail, GuardDuty, Security Hub, AWS Config
 
-* AWS
-* ECS Fargate
-* EKS
-* VPC
-* Route 53
-* IAM
-* S3
-* RDS
-* DynamoDB
-* CloudWatch
+**Infrastructure as Code:** Terraform, CloudFormation, reusable modules, remote state management, TFLint, Checkov
 
-### Infrastructure as Code
+**Containers and Platform Engineering:** Docker, Kubernetes, Helm, ArgoCD, GitOps
 
-* Terraform
-* CloudFormation
-* Remote State Management
-* Modular Infrastructure Design
+**CI/CD and Automation:** GitHub Actions, GitLab CI/CD, OIDC, Python, Bash, Git
 
-### Containers & Orchestration
+**Security and DevSecOps:** IAM least privilege, RBAC, secrets management, SAST, SCA, IaC scanning, container scanning, SBOM generation, artifact signing
 
-* Docker
-* Kubernetes
-* Helm
-* Amazon ECR
-* ArgoCD
-
-### CI/CD & GitOps
-
-* GitHub Actions
-* GitLab CI/CD
-* GitOps Workflows
-* OIDC Federation
-
-### Security & DevSecOps
-
-* IAM Least Privilege
-* Secrets Management
-* Infrastructure Security
-* Container Security
-* Security Hardening
-* DevSecOps Practices
-
-### Monitoring & Observability
-
-* Prometheus
-* Grafana
-* CloudWatch
-
-### Operating Systems & Programming
-
-* Linux
-* Bash
-* Python
-* Java
-* SQL
+**Observability and Systems:** CloudWatch, Prometheus, Grafana, Linux, Windows, networking, troubleshooting
 
 ---
 
-## Featured Projects
+## Selected Cloud Engineering Work
+
+Representative infrastructure and automation work supporting my experience in AWS, Terraform, Kubernetes, GitOps, DevSecOps, and cloud platform engineering.
 
 ### AWS EKS GitOps Platform
 
-Production-grade Kubernetes platform on AWS using GitOps principles.
+Built a Kubernetes platform on Amazon EKS using Terraform, Helm, ArgoCD, GitHub Actions, Prometheus, and Grafana.
 
-**Key Technologies**
+**Highlights**
 
-* Amazon EKS
-* Terraform
-* ArgoCD
-* Helm
-* Prometheus
-* Grafana
-* GitHub Actions
+- Reusable Terraform modules for VPC, IAM, and EKS provisioning
+- GitOps continuous delivery with ArgoCD
+- Secure GitHub Actions authentication using AWS OIDC
+- Kubernetes RBAC, Network Policies, and Horizontal Pod Autoscaler
+- Monitoring with Prometheus and Grafana
 
-Repository:
-https://github.com/Codrich/aws-eks-gitops-platform
+[View repository](https://github.com/Codrich/aws-eks-gitops-platform)
 
 ---
 
-### AWS Secure Fargate Platform
+### Mertmart AWS Fargate Platform
 
-Secure ECS Fargate platform built using Infrastructure as Code and CI/CD automation.
+Representative infrastructure developed through Mertmart Group LLC, demonstrating secure container deployment, Infrastructure as Code, CI/CD automation, observability, and cloud security.
 
-**Key Technologies**
+**Highlights**
 
-* ECS Fargate
-* Terraform
-* Application Load Balancer
-* GitHub Actions
-* OIDC Authentication
-* CloudWatch Monitoring
+- Amazon ECS Fargate workloads provisioned with Terraform
+- Secure VPC architecture and Application Load Balancer routing
+- GitHub Actions CI/CD using AWS OIDC
+- CloudWatch monitoring, dashboards, logging, and alarms
+- IAM least privilege, AWS WAF, and Secrets Manager
 
-Repository:
-https://github.com/Codrich/aws-secure-fargate-platform
+[View repository](https://github.com/Codrich/aws-secure-fargate-platform)
 
 ---
 
-### AWS Secure VPC Terraform
+### AWS Secure VPC Infrastructure
 
-Production-style AWS networking architecture built with Terraform.
+Reusable Terraform networking foundation demonstrating secure AWS network design and remote state management.
 
-**Key Technologies**
+**Highlights**
 
-* Public and Private Subnets
-* NAT Gateway
-* IAM Roles
-* Remote State Management
-* Security Best Practices
+- Public and private subnets across multiple Availability Zones
+- Route tables, NAT Gateway, and security groups
+- Reusable Terraform modules
+- Amazon S3 remote state and DynamoDB state locking
+- Least-privilege IAM and secure infrastructure practices
 
-Repository:
-https://github.com/Codrich/aws-secure-vpc-terraform
+[View repository](https://github.com/Codrich/aws-secure-vpc-terraform)
 
 ---
 
-### Cloud DevOps Automation Project
+### Cloud DevOps Automation
 
-Cloud infrastructure automation and CI/CD implementation project.
+DevOps implementation demonstrating cloud infrastructure automation, CI/CD workflows, serverless packaging, and deployment practices.
 
-**Key Technologies**
+**Highlights**
 
-* AWS CloudFormation
-* GitLab CI/CD
-* AWS Lambda
-* Python
+- AWS infrastructure provisioning with CloudFormation
+- GitLab CI/CD build, test, staging, and production workflows
+- Python-based AWS Lambda packaging and deployment
+- Automated artifact creation and environment-based releases
 
-Repository:
-https://github.com/Codrich/scriptchain-devops-project
+[View repository](https://github.com/Codrich/scriptchain-devops-project)
 
 ---
 
 ## Certifications
 
-🏆 AWS Certified DevOps Engineer – Professional
-
-🏆 AWS Certified Solutions Architect – Associate
-
-🏆 CompTIA Security+
-
-🏆 CompTIA Linux+
-
-🏆 CompTIA A+
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Solutions Architect – Associate
+- CompTIA Security+
+- CompTIA Linux+
+- CompTIA A+
 
 ---
 
 ## Current Areas of Interest
 
-* Platform Engineering
-* DevOps Engineering
-* Cloud Security Engineering
-* Site Reliability Engineering (SRE)
-* Kubernetes Platforms
-* Infrastructure Automation
-* AI Security
+- Platform Engineering
+- DevOps Engineering
+- Cloud Security Engineering
+- Site Reliability Engineering
+- Kubernetes Platforms
+- Infrastructure Automation
+- AI Security
 
 ---
 
 ## Connect With Me
 
-📧 Email: [eliteriches@gmail.com](mailto:eliteriches@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/richard-addae-2a79572a1
-
-💻 GitHub: https://github.com/Codrich
+📧 [eliteriches@gmail.com](mailto:eliteriches@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/richard-addae-2a79572a1)
 
 ---
 
-⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
+Thanks for visiting my profile. Feel free to explore my repositories, review my cloud engineering work, or connect with me to discuss DevOps, Platform Engineering, and Cloud Infrastructure.
