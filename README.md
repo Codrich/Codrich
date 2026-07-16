@@ -101,21 +101,6 @@ Reusable Terraform networking foundation demonstrating secure AWS network design
 
 ---
 
-### Cloud DevOps Automation
-
-DevOps implementation demonstrating cloud infrastructure automation, CI/CD workflows, serverless packaging, and deployment practices.
-
-**Highlights**
-
-- AWS infrastructure provisioning with CloudFormation
-- GitLab CI/CD build, test, staging, and production workflows
-- Python-based AWS Lambda packaging and deployment
-- Automated artifact creation and environment-based releases
-
-[View repository](https://github.com/Codrich/scriptchain-devops-project)
-
----
-
 ## Certifications
 
 - AWS Certified DevOps Engineer – Professional
