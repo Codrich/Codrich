@@ -51,27 +51,11 @@ Building cloud infrastructure, DevSecOps automation, and security architecture f
 
 ## Selected Cloud Engineering Work
 
-Representative infrastructure and automation work supporting my experience in AWS, Terraform, Kubernetes, GitOps, DevSecOps, and cloud platform engineering.
+Representative infrastructure and automation work supporting my experience in AWS, Terraform, Kubernetes, Linux, DevSecOps, and cloud platform engineering.
 
-### AWS EKS GitOps Platform
+### AWS Secure ECS Fargate Platform
 
-Built a Kubernetes platform on Amazon EKS using Terraform, Helm, ArgoCD, GitHub Actions, Prometheus, and Grafana.
-
-**Highlights**
-
-- Reusable Terraform modules for VPC, IAM, and EKS provisioning
-- GitOps continuous delivery with ArgoCD
-- Secure GitHub Actions authentication using AWS OIDC
-- Kubernetes RBAC, Network Policies, and Horizontal Pod Autoscaler
-- Monitoring with Prometheus and Grafana
-
-[View repository](https://github.com/Codrich/aws-eks-gitops-platform)
-
----
-
-### Mertmart AWS Fargate Platform
-
-Representative infrastructure developed through Mertmart Group LLC, demonstrating secure container deployment, Infrastructure as Code, CI/CD automation, observability, and cloud security.
+Production-style AWS cloud platform demonstrating Infrastructure as Code, secure container deployment, DevSecOps, CI/CD automation, observability, and cloud security.
 
 **Highlights**
 
@@ -85,20 +69,35 @@ Representative infrastructure developed through Mertmart Group LLC, demonstratin
 
 ---
 
-### AWS Secure VPC Infrastructure
+### AWS EKS GitOps Platform
 
-Reusable Terraform networking foundation demonstrating secure AWS network design and remote state management.
+Production-style Kubernetes platform built on Amazon EKS using Terraform, Helm, ArgoCD, GitHub Actions, Prometheus, and Grafana.
 
 **Highlights**
 
-- Public and private subnets across multiple Availability Zones
-- Route tables, NAT Gateway, and security groups
-- Reusable Terraform modules
-- Amazon S3 remote state and DynamoDB state locking
-- Least-privilege IAM and secure infrastructure practices
+- Reusable Terraform modules for VPC, IAM, and EKS provisioning
+- GitOps continuous delivery with ArgoCD
+- Secure GitHub Actions authentication using AWS OIDC
+- Kubernetes RBAC, Network Policies, and Horizontal Pod Autoscaler
+- Monitoring with Prometheus and Grafana
 
-[View repository](https://github.com/Codrich/aws-secure-vpc-terraform)
+[View repository](https://github.com/Codrich/aws-eks-gitops-platform)
 
+---
+
+### Linux Administration & Automation on AWS
+
+Production-style Linux administration platform demonstrating infrastructure automation, system hardening, monitoring, configuration management, and operational reliability on AWS.
+
+**Highlights**
+
+- Hardened Ubuntu EC2 instance provisioned with Terraform
+- Automated configuration management using Ansible
+- Nginx, CloudWatch Agent, Fail2ban, and UFW hardening
+- Automated encrypted S3 backups with scheduled jobs
+- CloudWatch monitoring, alarms, and operational runbooks
+
+[View repository](https://github.com/Codrich/linux-admin-prod-web)
 ---
 
 ## Certifications
